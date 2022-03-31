@@ -11,6 +11,8 @@ matplotlib = "^3.5.1"
 scikit-learn = "^1.0.2"
 seaborn = "^0.11.2"
 boto3 = "^1.21.30"
+geopandas = "^0.10.2"
+Shapely = "^1.8.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
